@@ -1,6 +1,6 @@
-__author__ = 'dangitstam'
-
-
+# Tam Dang
+# Main file for running the game
+# Assumes the user has a working version of Pygame downloaded
 # blit function credit to Blake from Nerdparadise
 
 import pygame
