@@ -8,9 +8,11 @@ Written with Pygame http://www.pygame.org/hifi.html
 
 ## To run DrunkSnake via terminal:
 First, navigate to DrunkSnake directory and activate the environment that includes Pygame:
+
 `source DrunkSnakeEnv/bin/activate`
 
 Next, run the game using python 2:
+
 `python2 DrunkSnake.py`
 
 ## How to play:
